@@ -1,0 +1,18 @@
+Miller Paper Thoughts
+
+Big Questions:
+Is the span of absolute judgment or the span of immediate memory the greater limiting factor in echolocation?
+What is the dimensionality of an echo?
+What features do people extract?
+What features provide the most information?
+How does time between clicks factor in?
+
+It will be very important to figure out the dimensionality of an echo since this will drive the training process particularly in terms of teaching recoding. If we can determine the easiest features to recognize then these can form the foundation for teaching.
+
+I believe it would be useful to perform a Miller-like study to look at discriminating echo features. This study would be performed looking at echo features individually and combined. The univariate cases can then be compared to Miller's findings. It would be interesting to then see if we fit Miller's curves. This study however may not be as applicable to echolocation since I imagine the echolocation process is limited more by the span of immediate memory.
+
+My hunch is that the span of immediate memory is a greater constraint since echolocation seems to me to be more of a comparison between a series of echos. This may be a little trickier to test.
+
+In terms of developing an application I believe the key challenge will be determining optimal recoding patterns to teach. A study into the fundamental echo features will be a good starting point. Specifically it will help to determine which features are easiest to pick out and discriminate. This can be looked at as part of the Miller-like study.
+
+One other thought is to look at the factor of time in both the absolute judgment and immediate memory cases. Would more clicks closer in time allow the person to retain more information? Perhaps the immediate memory piece is time dependent. Miller did not make that clear. He did make it clear that the absolute judgment piece was independent of time, at least as it was tested in the studies, so it may be interesting for us to include the time variable in our Miller-like study as well.
