@@ -16,6 +16,9 @@ Echo Features
 =============
 
 
+Ideas
+=====
+- Ultrasound to headphones, see if simply running it for a long time will teach
 
 TODO
 ====
@@ -26,6 +29,7 @@ Basic information theory topics
 - Information
 - Mutual information
 - Channel capacity
+- Multiplex problem
 
 Research echo features
 
