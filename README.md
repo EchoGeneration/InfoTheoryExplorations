@@ -19,6 +19,7 @@ Echo Features
 Ideas
 =====
 - Ultrasound to headphones, see if simply running it for a long time will teach
+- Echo generator (bat noises, human noises, sweeps, fixed freq)
 
 TODO
 ====
