@@ -37,5 +37,11 @@ Research echo features
 Basic Study
 - Absolute judgement on individual features
 
-SURG
+Basic App
+- Generate audio
+- Basic UI
+
+Read more papers
+
+Weekly updates
 
